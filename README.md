@@ -1,7 +1,7 @@
 # CardBrain
 [Live](https://card-brain.herokuapp.com)
 
-CardBrain is a web application inspired by BrainScape built using Ruby on Rails, React/Redux, and PostgreSQL.
+A web application built using Ruby on Rails, React/Redux, and PostgreSQL.
 
 ## Features & Implementation
 
@@ -78,11 +78,3 @@ _preferRandomCardWithRatingAtLeast(rating) {
   return this._preferRandomCardWithRatingAtLeast(rating - 1);
 }
 ```
-
-
-## Future Improvements
-### Multimedia Flashcards
-Adding sound and images to cards is a killer feature that I would like to implement.
-
-### Editable Deck Objective
-I would like to make the deck objective editable and viewable by users, currently it is only stored in the DB.
