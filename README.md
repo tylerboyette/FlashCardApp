@@ -1,4 +1,4 @@
-# CardBrain
+# Project
 [Live](https://card-brain.herokuapp.com)
 
 A web application built using Ruby on Rails, React/Redux, and PostgreSQL.
